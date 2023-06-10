@@ -1,7 +1,7 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif)](https://Adarsh-singh.io)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)](https://Adarsh-singh.io)
 <h1 align="center">Hi 👋, I'm ADARSH SINGH</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/20/c6/58/20c658e4c375268eed59d1c94b61059f.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarxh-singh&label=Profile%20views&color=0e75b6&style=flat" alt="adarxh-singh" /> </p>
