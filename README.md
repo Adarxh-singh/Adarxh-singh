@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/9599c3b064e38680f68e77052e104b45d51a5435645794c447b1c53c8816747b/68747470733a2f2f7777772e736576656e73746172776562736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f7468656d65732f736576656e737461722f696d672f62616e6e65722d62672e676966)](https://Adarsh-singh.io)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif)](https://Adarsh-singh.io)
 <h1 align="center">Hi 👋, I'm ADARSH SINGH</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
